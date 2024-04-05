@@ -1,0 +1,10 @@
+C:\Users\Mbyte Soluciones\source\repos\ProyAplicaciones\ProyAplicaciones\bin\Debug\ProyAplicaciones.exe.config
+C:\Users\Mbyte Soluciones\source\repos\ProyAplicaciones\ProyAplicaciones\bin\Debug\ProyAplicaciones.exe
+C:\Users\Mbyte Soluciones\source\repos\ProyAplicaciones\ProyAplicaciones\bin\Debug\ProyAplicaciones.pdb
+C:\Users\Mbyte Soluciones\source\repos\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.csproj.AssemblyReference.cache
+C:\Users\Mbyte Soluciones\source\repos\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.Form1.resources
+C:\Users\Mbyte Soluciones\source\repos\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.Properties.Resources.resources
+C:\Users\Mbyte Soluciones\source\repos\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.csproj.GenerateResource.cache
+C:\Users\Mbyte Soluciones\source\repos\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.csproj.CoreCompileInputs.cache
+C:\Users\Mbyte Soluciones\source\repos\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.exe
+C:\Users\Mbyte Soluciones\source\repos\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.pdb
