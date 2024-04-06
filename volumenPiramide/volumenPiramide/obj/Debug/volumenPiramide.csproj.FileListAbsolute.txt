@@ -1,0 +1,10 @@
+F:\Documentos Ext\CODE\ProyectosC#\volumenPiramide\volumenPiramide\bin\Debug\volumenPiramide.exe.config
+F:\Documentos Ext\CODE\ProyectosC#\volumenPiramide\volumenPiramide\bin\Debug\volumenPiramide.exe
+F:\Documentos Ext\CODE\ProyectosC#\volumenPiramide\volumenPiramide\bin\Debug\volumenPiramide.pdb
+F:\Documentos Ext\CODE\ProyectosC#\volumenPiramide\volumenPiramide\obj\Debug\volumenPiramide.csproj.AssemblyReference.cache
+F:\Documentos Ext\CODE\ProyectosC#\volumenPiramide\volumenPiramide\obj\Debug\volumenPiramide.volumenPiramide.resources
+F:\Documentos Ext\CODE\ProyectosC#\volumenPiramide\volumenPiramide\obj\Debug\volumenPiramide.Properties.Resources.resources
+F:\Documentos Ext\CODE\ProyectosC#\volumenPiramide\volumenPiramide\obj\Debug\volumenPiramide.csproj.GenerateResource.cache
+F:\Documentos Ext\CODE\ProyectosC#\volumenPiramide\volumenPiramide\obj\Debug\volumenPiramide.csproj.CoreCompileInputs.cache
+F:\Documentos Ext\CODE\ProyectosC#\volumenPiramide\volumenPiramide\obj\Debug\volumenPiramide.exe
+F:\Documentos Ext\CODE\ProyectosC#\volumenPiramide\volumenPiramide\obj\Debug\volumenPiramide.pdb

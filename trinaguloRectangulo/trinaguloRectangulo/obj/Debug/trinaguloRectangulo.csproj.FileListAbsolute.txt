@@ -1,0 +1,10 @@
+F:\Documentos Ext\CODE\ProyectosC#\trinaguloRectangulo\trinaguloRectangulo\bin\Debug\trinaguloRectangulo.exe.config
+F:\Documentos Ext\CODE\ProyectosC#\trinaguloRectangulo\trinaguloRectangulo\bin\Debug\trinaguloRectangulo.exe
+F:\Documentos Ext\CODE\ProyectosC#\trinaguloRectangulo\trinaguloRectangulo\bin\Debug\trinaguloRectangulo.pdb
+F:\Documentos Ext\CODE\ProyectosC#\trinaguloRectangulo\trinaguloRectangulo\obj\Debug\trinaguloRectangulo.csproj.AssemblyReference.cache
+F:\Documentos Ext\CODE\ProyectosC#\trinaguloRectangulo\trinaguloRectangulo\obj\Debug\trinaguloRectangulo.Form1.resources
+F:\Documentos Ext\CODE\ProyectosC#\trinaguloRectangulo\trinaguloRectangulo\obj\Debug\trinaguloRectangulo.Properties.Resources.resources
+F:\Documentos Ext\CODE\ProyectosC#\trinaguloRectangulo\trinaguloRectangulo\obj\Debug\trinaguloRectangulo.csproj.GenerateResource.cache
+F:\Documentos Ext\CODE\ProyectosC#\trinaguloRectangulo\trinaguloRectangulo\obj\Debug\trinaguloRectangulo.csproj.CoreCompileInputs.cache
+F:\Documentos Ext\CODE\ProyectosC#\trinaguloRectangulo\trinaguloRectangulo\obj\Debug\trinaguloRectangulo.exe
+F:\Documentos Ext\CODE\ProyectosC#\trinaguloRectangulo\trinaguloRectangulo\obj\Debug\trinaguloRectangulo.pdb

@@ -1,0 +1,10 @@
+F:\Documentos Ext\CODE\ProyectosC#\cantidadCifras\cantidadCifras\bin\Debug\cantidadCifras.exe.config
+F:\Documentos Ext\CODE\ProyectosC#\cantidadCifras\cantidadCifras\bin\Debug\cantidadCifras.exe
+F:\Documentos Ext\CODE\ProyectosC#\cantidadCifras\cantidadCifras\bin\Debug\cantidadCifras.pdb
+F:\Documentos Ext\CODE\ProyectosC#\cantidadCifras\cantidadCifras\obj\Debug\cantidadCifras.csproj.AssemblyReference.cache
+F:\Documentos Ext\CODE\ProyectosC#\cantidadCifras\cantidadCifras\obj\Debug\cantidadCifras.Form1.resources
+F:\Documentos Ext\CODE\ProyectosC#\cantidadCifras\cantidadCifras\obj\Debug\cantidadCifras.Properties.Resources.resources
+F:\Documentos Ext\CODE\ProyectosC#\cantidadCifras\cantidadCifras\obj\Debug\cantidadCifras.csproj.GenerateResource.cache
+F:\Documentos Ext\CODE\ProyectosC#\cantidadCifras\cantidadCifras\obj\Debug\cantidadCifras.csproj.CoreCompileInputs.cache
+F:\Documentos Ext\CODE\ProyectosC#\cantidadCifras\cantidadCifras\obj\Debug\cantidadCifras.exe
+F:\Documentos Ext\CODE\ProyectosC#\cantidadCifras\cantidadCifras\obj\Debug\cantidadCifras.pdb

@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Documentos Ext\\CODE\\ProyectosC#\\trinaguloRectangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFC1677-314C-4B9A-BBBD-E2675C866584}|trinaguloRectangulo\\trinaguloRectangulo.csproj|f:\\documentos ext\\code\\proyectosc#\\trinagulorectangulo\\trinagulorectangulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCFC1677-314C-4B9A-BBBD-E2675C866584}|trinaguloRectangulo\\trinaguloRectangulo.csproj|solutionrelative:trinagulorectangulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFC1677-314C-4B9A-BBBD-E2675C866584}|trinaguloRectangulo\\trinaguloRectangulo.csproj|f:\\documentos ext\\code\\proyectosc#\\trinagulorectangulo\\trinagulorectangulo\\cltriangulorectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCFC1677-314C-4B9A-BBBD-E2675C866584}|trinaguloRectangulo\\trinaguloRectangulo.csproj|solutionrelative:trinagulorectangulo\\cltriangulorectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFC1677-314C-4B9A-BBBD-E2675C866584}|trinaguloRectangulo\\trinaguloRectangulo.csproj|f:\\documentos ext\\code\\proyectosc#\\trinagulorectangulo\\trinagulorectangulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCFC1677-314C-4B9A-BBBD-E2675C866584}|trinaguloRectangulo\\trinaguloRectangulo.csproj|solutionrelative:trinagulorectangulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Documentos Ext\\CODE\\ProyectosC#\\trinaguloRectangulo\\trinaguloRectangulo\\Form1.cs",
+              "RelativeDocumentMoniker": "trinaguloRectangulo\\Form1.cs",
+              "ToolTip": "F:\\Documentos Ext\\CODE\\ProyectosC#\\trinaguloRectangulo\\trinaguloRectangulo\\Form1.cs",
+              "RelativeToolTip": "trinaguloRectangulo\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:54:37.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClTrianguloRectangulo.cs",
+              "DocumentMoniker": "F:\\Documentos Ext\\CODE\\ProyectosC#\\trinaguloRectangulo\\trinaguloRectangulo\\ClTrianguloRectangulo.cs",
+              "RelativeDocumentMoniker": "trinaguloRectangulo\\ClTrianguloRectangulo.cs",
+              "ToolTip": "F:\\Documentos Ext\\CODE\\ProyectosC#\\trinaguloRectangulo\\trinaguloRectangulo\\ClTrianguloRectangulo.cs",
+              "RelativeToolTip": "trinaguloRectangulo\\ClTrianguloRectangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:50:03.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Documentos Ext\\CODE\\ProyectosC#\\trinaguloRectangulo\\trinaguloRectangulo\\Form1.cs",
+              "RelativeDocumentMoniker": "trinaguloRectangulo\\Form1.cs",
+              "ToolTip": "F:\\Documentos Ext\\CODE\\ProyectosC#\\trinaguloRectangulo\\trinaguloRectangulo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "trinaguloRectangulo\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:44:42.048Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
