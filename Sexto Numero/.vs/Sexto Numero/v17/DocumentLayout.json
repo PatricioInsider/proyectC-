@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mbyte Soluciones\\source\\repos\\Sexto Numero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21C00691-B4D7-4B99-A6A2-ABCA3E541B5B}|F:\\Documentos Ext\\CODE\\ProyectosC#\\WindowsFormsApp1\\WindowsFormsApp1.csproj|f:\\documentos ext\\code\\proyectosc#\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100B27AF-B771-4D7E-9CAD-75F62EA84B9F}|Sexto Numero\\Sexto Numero.csproj|c:\\users\\mbyte soluciones\\source\\repos\\sexto numero\\sexto numero\\sextonumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100B27AF-B771-4D7E-9CAD-75F62EA84B9F}|Sexto Numero\\Sexto Numero.csproj|solutionrelative:sexto numero\\sextonumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100B27AF-B771-4D7E-9CAD-75F62EA84B9F}|Sexto Numero\\Sexto Numero.csproj|c:\\users\\mbyte soluciones\\source\\repos\\sexto numero\\sexto numero\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100B27AF-B771-4D7E-9CAD-75F62EA84B9F}|Sexto Numero\\Sexto Numero.csproj|solutionrelative:sexto numero\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100B27AF-B771-4D7E-9CAD-75F62EA84B9F}|Sexto Numero\\Sexto Numero.csproj|c:\\users\\mbyte soluciones\\source\\repos\\sexto numero\\sexto numero\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{100B27AF-B771-4D7E-9CAD-75F62EA84B9F}|Sexto Numero\\Sexto Numero.csproj|solutionrelative:sexto numero\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Documentos Ext\\CODE\\ProyectosC#\\WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "F:\\Documentos Ext\\CODE\\ProyectosC#\\WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:54:45.146Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mbyte Soluciones\\source\\repos\\Sexto Numero\\Sexto Numero\\Form1.cs",
+              "RelativeDocumentMoniker": "Sexto Numero\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mbyte Soluciones\\source\\repos\\Sexto Numero\\Sexto Numero\\Form1.cs",
+              "RelativeToolTip": "Sexto Numero\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:21:03.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SextoNumero.cs",
+              "DocumentMoniker": "C:\\Users\\Mbyte Soluciones\\source\\repos\\Sexto Numero\\Sexto Numero\\SextoNumero.cs",
+              "RelativeDocumentMoniker": "Sexto Numero\\SextoNumero.cs",
+              "ToolTip": "C:\\Users\\Mbyte Soluciones\\source\\repos\\Sexto Numero\\Sexto Numero\\SextoNumero.cs",
+              "RelativeToolTip": "Sexto Numero\\SextoNumero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:58:39.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mbyte Soluciones\\source\\repos\\Sexto Numero\\Sexto Numero\\Form1.cs",
+              "RelativeDocumentMoniker": "Sexto Numero\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mbyte Soluciones\\source\\repos\\Sexto Numero\\Sexto Numero\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sexto Numero\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:50:18.762Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

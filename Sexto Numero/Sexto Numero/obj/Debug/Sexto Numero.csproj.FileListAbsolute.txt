@@ -1,0 +1,10 @@
+C:\Users\Mbyte Soluciones\source\repos\Sexto Numero\Sexto Numero\bin\Debug\Sexto Numero.exe.config
+C:\Users\Mbyte Soluciones\source\repos\Sexto Numero\Sexto Numero\bin\Debug\Sexto Numero.exe
+C:\Users\Mbyte Soluciones\source\repos\Sexto Numero\Sexto Numero\bin\Debug\Sexto Numero.pdb
+C:\Users\Mbyte Soluciones\source\repos\Sexto Numero\Sexto Numero\obj\Debug\Sexto Numero.csproj.AssemblyReference.cache
+C:\Users\Mbyte Soluciones\source\repos\Sexto Numero\Sexto Numero\obj\Debug\Sexto_Numero.Form1.resources
+C:\Users\Mbyte Soluciones\source\repos\Sexto Numero\Sexto Numero\obj\Debug\Sexto_Numero.Properties.Resources.resources
+C:\Users\Mbyte Soluciones\source\repos\Sexto Numero\Sexto Numero\obj\Debug\Sexto Numero.csproj.GenerateResource.cache
+C:\Users\Mbyte Soluciones\source\repos\Sexto Numero\Sexto Numero\obj\Debug\Sexto Numero.csproj.CoreCompileInputs.cache
+C:\Users\Mbyte Soluciones\source\repos\Sexto Numero\Sexto Numero\obj\Debug\Sexto Numero.exe
+C:\Users\Mbyte Soluciones\source\repos\Sexto Numero\Sexto Numero\obj\Debug\Sexto Numero.pdb
