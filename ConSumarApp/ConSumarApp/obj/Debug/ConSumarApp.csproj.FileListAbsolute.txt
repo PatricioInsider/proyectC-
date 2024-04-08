@@ -1,0 +1,7 @@
+D:\CODE\proyectosC#\ConSumarApp\ConSumarApp\bin\Debug\ConSumarApp.exe.config
+D:\CODE\proyectosC#\ConSumarApp\ConSumarApp\bin\Debug\ConSumarApp.exe
+D:\CODE\proyectosC#\ConSumarApp\ConSumarApp\bin\Debug\ConSumarApp.pdb
+D:\CODE\proyectosC#\ConSumarApp\ConSumarApp\obj\Debug\ConSumarApp.csproj.AssemblyReference.cache
+D:\CODE\proyectosC#\ConSumarApp\ConSumarApp\obj\Debug\ConSumarApp.csproj.CoreCompileInputs.cache
+D:\CODE\proyectosC#\ConSumarApp\ConSumarApp\obj\Debug\ConSumarApp.exe
+D:\CODE\proyectosC#\ConSumarApp\ConSumarApp\obj\Debug\ConSumarApp.pdb

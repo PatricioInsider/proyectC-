@@ -1,0 +1,11 @@
+D:\CODE\proyectosC#\WinAppCursor\WinAppCursor\bin\Debug\WinAppCursor.exe.config
+D:\CODE\proyectosC#\WinAppCursor\WinAppCursor\bin\Debug\WinAppCursor.exe
+D:\CODE\proyectosC#\WinAppCursor\WinAppCursor\bin\Debug\WinAppCursor.pdb
+D:\CODE\proyectosC#\WinAppCursor\WinAppCursor\obj\Debug\WinAppCursor.csproj.AssemblyReference.cache
+D:\CODE\proyectosC#\WinAppCursor\WinAppCursor\obj\Debug\WinAppCursor.Form1.resources
+D:\CODE\proyectosC#\WinAppCursor\WinAppCursor\obj\Debug\WinAppCursor.Properties.Resources.resources
+D:\CODE\proyectosC#\WinAppCursor\WinAppCursor\obj\Debug\WinAppCursor.csproj.GenerateResource.cache
+D:\CODE\proyectosC#\WinAppCursor\WinAppCursor\obj\Debug\WinAppCursor.csproj.CoreCompileInputs.cache
+D:\CODE\proyectosC#\WinAppCursor\WinAppCursor\obj\Debug\WinAppCursor.exe
+D:\CODE\proyectosC#\WinAppCursor\WinAppCursor\obj\Debug\WinAppCursor.pdb
+D:\CODE\proyectosC#\WinAppCursor\WinAppCursor\obj\Debug\WinAppCursor.FrmCaraFeliz.resources

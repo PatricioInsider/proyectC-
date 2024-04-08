@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\proyectosC#\\WinAppCursor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32B71977-5856-4271-86F6-9F21B5847AEC}|WinAppCursor\\WinAppCursor.csproj|d:\\code\\proyectosc#\\winappcursor\\winappcursor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B71977-5856-4271-86F6-9F21B5847AEC}|WinAppCursor\\WinAppCursor.csproj|solutionrelative:winappcursor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B71977-5856-4271-86F6-9F21B5847AEC}|WinAppCursor\\WinAppCursor.csproj|d:\\code\\proyectosc#\\winappcursor\\winappcursor\\frmcarafeliz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32B71977-5856-4271-86F6-9F21B5847AEC}|WinAppCursor\\WinAppCursor.csproj|solutionrelative:winappcursor\\frmcarafeliz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B71977-5856-4271-86F6-9F21B5847AEC}|WinAppCursor\\WinAppCursor.csproj|d:\\code\\proyectosc#\\winappcursor\\winappcursor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32B71977-5856-4271-86F6-9F21B5847AEC}|WinAppCursor\\WinAppCursor.csproj|solutionrelative:winappcursor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCaraFeliz.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppCursor\\WinAppCursor\\FrmCaraFeliz.cs",
+              "RelativeDocumentMoniker": "WinAppCursor\\FrmCaraFeliz.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppCursor\\WinAppCursor\\FrmCaraFeliz.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppCursor\\FrmCaraFeliz.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:49:08.775Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppCursor\\WinAppCursor\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppCursor\\Form1.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppCursor\\WinAppCursor\\Form1.cs",
+              "RelativeToolTip": "WinAppCursor\\Form1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:33:41.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppCursor\\WinAppCursor\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppCursor\\Form1.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppCursor\\WinAppCursor\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppCursor\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:24:43.507Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
