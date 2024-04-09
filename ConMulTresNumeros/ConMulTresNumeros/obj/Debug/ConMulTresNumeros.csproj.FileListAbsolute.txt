@@ -1,0 +1,7 @@
+F:\Documentos Ext\CODE\ProyectosC#\ConMulTresNumeros\ConMulTresNumeros\bin\Debug\ConMulTresNumeros.exe.config
+F:\Documentos Ext\CODE\ProyectosC#\ConMulTresNumeros\ConMulTresNumeros\bin\Debug\ConMulTresNumeros.exe
+F:\Documentos Ext\CODE\ProyectosC#\ConMulTresNumeros\ConMulTresNumeros\bin\Debug\ConMulTresNumeros.pdb
+F:\Documentos Ext\CODE\ProyectosC#\ConMulTresNumeros\ConMulTresNumeros\obj\Debug\ConMulTresNumeros.csproj.AssemblyReference.cache
+F:\Documentos Ext\CODE\ProyectosC#\ConMulTresNumeros\ConMulTresNumeros\obj\Debug\ConMulTresNumeros.csproj.CoreCompileInputs.cache
+F:\Documentos Ext\CODE\ProyectosC#\ConMulTresNumeros\ConMulTresNumeros\obj\Debug\ConMulTresNumeros.exe
+F:\Documentos Ext\CODE\ProyectosC#\ConMulTresNumeros\ConMulTresNumeros\obj\Debug\ConMulTresNumeros.pdb

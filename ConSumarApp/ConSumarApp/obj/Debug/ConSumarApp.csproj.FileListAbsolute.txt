@@ -5,3 +5,10 @@ D:\CODE\proyectosC#\ConSumarApp\ConSumarApp\obj\Debug\ConSumarApp.csproj.Assembl
 D:\CODE\proyectosC#\ConSumarApp\ConSumarApp\obj\Debug\ConSumarApp.csproj.CoreCompileInputs.cache
 D:\CODE\proyectosC#\ConSumarApp\ConSumarApp\obj\Debug\ConSumarApp.exe
 D:\CODE\proyectosC#\ConSumarApp\ConSumarApp\obj\Debug\ConSumarApp.pdb
+F:\Documentos Ext\CODE\ProyectosC#\ConSumarApp\ConSumarApp\bin\Debug\ConSumarApp.exe.config
+F:\Documentos Ext\CODE\ProyectosC#\ConSumarApp\ConSumarApp\bin\Debug\ConSumarApp.exe
+F:\Documentos Ext\CODE\ProyectosC#\ConSumarApp\ConSumarApp\bin\Debug\ConSumarApp.pdb
+F:\Documentos Ext\CODE\ProyectosC#\ConSumarApp\ConSumarApp\obj\Debug\ConSumarApp.csproj.AssemblyReference.cache
+F:\Documentos Ext\CODE\ProyectosC#\ConSumarApp\ConSumarApp\obj\Debug\ConSumarApp.csproj.CoreCompileInputs.cache
+F:\Documentos Ext\CODE\ProyectosC#\ConSumarApp\ConSumarApp\obj\Debug\ConSumarApp.exe
+F:\Documentos Ext\CODE\ProyectosC#\ConSumarApp\ConSumarApp\obj\Debug\ConSumarApp.pdb

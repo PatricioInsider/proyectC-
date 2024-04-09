@@ -24,8 +24,11 @@ namespace WinInterfazSimple
 
         private void BtnCalcular_Click(object sender, EventArgs e)
         {
+            string nombre = TbxNombre.Text;
+            string apellido = TbxApellido.Text;
+            string edad = TbxEdad.Text;
             
-            LblRespuesta.Text = ("Hola {0} {1} , tù edad es: {2}", Tbx.Nombrestrin);
+            LblRespuesta.Text = ($"Hola {nombre} {apellido} , tù edad es: {edad}");
         }
     }
 }

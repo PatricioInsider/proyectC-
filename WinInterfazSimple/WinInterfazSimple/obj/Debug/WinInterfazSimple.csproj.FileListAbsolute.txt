@@ -1,0 +1,10 @@
+F:\Documentos Ext\CODE\ProyectosC#\WinInterfazSimple\WinInterfazSimple\bin\Debug\WinInterfazSimple.exe.config
+F:\Documentos Ext\CODE\ProyectosC#\WinInterfazSimple\WinInterfazSimple\bin\Debug\WinInterfazSimple.exe
+F:\Documentos Ext\CODE\ProyectosC#\WinInterfazSimple\WinInterfazSimple\bin\Debug\WinInterfazSimple.pdb
+F:\Documentos Ext\CODE\ProyectosC#\WinInterfazSimple\WinInterfazSimple\obj\Debug\WinInterfazSimple.csproj.AssemblyReference.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinInterfazSimple\WinInterfazSimple\obj\Debug\WinInterfazSimple.Form1.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinInterfazSimple\WinInterfazSimple\obj\Debug\WinInterfazSimple.Properties.Resources.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinInterfazSimple\WinInterfazSimple\obj\Debug\WinInterfazSimple.csproj.GenerateResource.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinInterfazSimple\WinInterfazSimple\obj\Debug\WinInterfazSimple.csproj.CoreCompileInputs.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinInterfazSimple\WinInterfazSimple\obj\Debug\WinInterfazSimple.exe
+F:\Documentos Ext\CODE\ProyectosC#\WinInterfazSimple\WinInterfazSimple\obj\Debug\WinInterfazSimple.pdb

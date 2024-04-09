@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CODE\\proyectosC#\\ConSumarApp\\",
+  "WorkspaceRootPath": "F:\\Documentos Ext\\CODE\\ProyectosC#\\ConSumarApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9FC6BBD-35CD-4093-B808-826B6DDF17D9}|ConSumarApp\\ConSumarApp.csproj|d:\\code\\proyectosc#\\consumarapp\\consumarapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9FC6BBD-35CD-4093-B808-826B6DDF17D9}|ConSumarApp\\ConSumarApp.csproj|f:\\documentos ext\\code\\proyectosc#\\consumarapp\\consumarapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9FC6BBD-35CD-4093-B808-826B6DDF17D9}|ConSumarApp\\ConSumarApp.csproj|solutionrelative:consumarapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CODE\\proyectosC#\\ConSumarApp\\ConSumarApp\\Program.cs",
+              "DocumentMoniker": "F:\\Documentos Ext\\CODE\\ProyectosC#\\ConSumarApp\\ConSumarApp\\Program.cs",
               "RelativeDocumentMoniker": "ConSumarApp\\Program.cs",
-              "ToolTip": "D:\\CODE\\proyectosC#\\ConSumarApp\\ConSumarApp\\Program.cs",
+              "ToolTip": "F:\\Documentos Ext\\CODE\\ProyectosC#\\ConSumarApp\\ConSumarApp\\Program.cs",
               "RelativeToolTip": "ConSumarApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T13:07:40.34Z",
               "EditorCaption": ""
