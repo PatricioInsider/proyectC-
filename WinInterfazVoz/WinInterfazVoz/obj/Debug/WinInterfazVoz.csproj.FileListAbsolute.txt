@@ -1,0 +1,10 @@
+D:\CODE\proyectosC#\WinInterfazVoz\WinInterfazVoz\obj\Debug\WinInterfazVoz.csproj.AssemblyReference.cache
+D:\CODE\proyectosC#\WinInterfazVoz\WinInterfazVoz\obj\Debug\WinInterfazVoz.Form1.resources
+D:\CODE\proyectosC#\WinInterfazVoz\WinInterfazVoz\obj\Debug\WinInterfazVoz.Properties.Resources.resources
+D:\CODE\proyectosC#\WinInterfazVoz\WinInterfazVoz\obj\Debug\WinInterfazVoz.csproj.GenerateResource.cache
+D:\CODE\proyectosC#\WinInterfazVoz\WinInterfazVoz\obj\Debug\WinInterfazVoz.csproj.CoreCompileInputs.cache
+D:\CODE\proyectosC#\WinInterfazVoz\WinInterfazVoz\bin\Debug\WinInterfazVoz.exe.config
+D:\CODE\proyectosC#\WinInterfazVoz\WinInterfazVoz\bin\Debug\WinInterfazVoz.exe
+D:\CODE\proyectosC#\WinInterfazVoz\WinInterfazVoz\bin\Debug\WinInterfazVoz.pdb
+D:\CODE\proyectosC#\WinInterfazVoz\WinInterfazVoz\obj\Debug\WinInterfazVoz.exe
+D:\CODE\proyectosC#\WinInterfazVoz\WinInterfazVoz\obj\Debug\WinInterfazVoz.pdb

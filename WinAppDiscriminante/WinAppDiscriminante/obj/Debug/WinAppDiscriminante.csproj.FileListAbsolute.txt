@@ -1,0 +1,10 @@
+D:\CODE\proyectosC#\WinAppDiscriminante\WinAppDiscriminante\bin\Debug\WinAppDiscriminante.exe.config
+D:\CODE\proyectosC#\WinAppDiscriminante\WinAppDiscriminante\bin\Debug\WinAppDiscriminante.exe
+D:\CODE\proyectosC#\WinAppDiscriminante\WinAppDiscriminante\bin\Debug\WinAppDiscriminante.pdb
+D:\CODE\proyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.csproj.AssemblyReference.cache
+D:\CODE\proyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.Form1.resources
+D:\CODE\proyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.Properties.Resources.resources
+D:\CODE\proyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.csproj.GenerateResource.cache
+D:\CODE\proyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.csproj.CoreCompileInputs.cache
+D:\CODE\proyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.exe
+D:\CODE\proyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.pdb
