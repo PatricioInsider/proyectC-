@@ -1,0 +1,16 @@
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\bin\Debug\WinAppPanelesBunifu.exe.config
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\bin\Debug\WinAppPanelesBunifu.exe
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\bin\Debug\WinAppPanelesBunifu.pdb
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\obj\Debug\WinAppPanelesBunifu.csproj.AssemblyReference.cache
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\obj\Debug\WinAppPanelesBunifu.Form1.resources
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\obj\Debug\WinAppPanelesBunifu.Properties.Resources.resources
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\obj\Debug\WinAppPanelesBunifu.csproj.GenerateResource.cache
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\obj\Debug\WinAppPanelesBunifu.csproj.CoreCompileInputs.cache
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\obj\Debug\WinAppPa.38CC9AF5.Up2Date
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\obj\Debug\WinAppPanelesBunifu.exe
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\obj\Debug\WinAppPanelesBunifu.pdb
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\obj\Debug\WinAppPanelesBunifu.FrmCaraFeliz.resources
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\bin\Debug\WinAppDiscriminante.dll
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\bin\Debug\WinAppDiscriminante.pdb
+D:\CODE\proyectosC#\WinAppPanelesBunifu\WinAppPanelesBunifu\bin\Debug\WinAppDiscriminante.dll.config

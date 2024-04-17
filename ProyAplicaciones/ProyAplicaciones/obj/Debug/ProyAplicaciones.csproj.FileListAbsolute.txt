@@ -8,3 +8,13 @@ C:\Users\Mbyte Soluciones\source\repos\ProyAplicaciones\ProyAplicaciones\obj\Deb
 C:\Users\Mbyte Soluciones\source\repos\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.csproj.CoreCompileInputs.cache
 C:\Users\Mbyte Soluciones\source\repos\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.exe
 C:\Users\Mbyte Soluciones\source\repos\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.pdb
+D:\CODE\proyectosC#\ProyAplicaciones\ProyAplicaciones\bin\Debug\ProyAplicaciones.dll.config
+D:\CODE\proyectosC#\ProyAplicaciones\ProyAplicaciones\bin\Debug\ProyAplicaciones.dll
+D:\CODE\proyectosC#\ProyAplicaciones\ProyAplicaciones\bin\Debug\ProyAplicaciones.pdb
+D:\CODE\proyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.csproj.AssemblyReference.cache
+D:\CODE\proyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.Form1.resources
+D:\CODE\proyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.Properties.Resources.resources
+D:\CODE\proyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.csproj.GenerateResource.cache
+D:\CODE\proyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.csproj.CoreCompileInputs.cache
+D:\CODE\proyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.dll
+D:\CODE\proyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.pdb

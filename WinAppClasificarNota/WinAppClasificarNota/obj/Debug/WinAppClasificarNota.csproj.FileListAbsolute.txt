@@ -1,0 +1,10 @@
+D:\CODE\proyectosC#\WinAppClasificarNota\WinAppClasificarNota\bin\Debug\WinAppClasificarNota.exe.config
+D:\CODE\proyectosC#\WinAppClasificarNota\WinAppClasificarNota\bin\Debug\WinAppClasificarNota.exe
+D:\CODE\proyectosC#\WinAppClasificarNota\WinAppClasificarNota\bin\Debug\WinAppClasificarNota.pdb
+D:\CODE\proyectosC#\WinAppClasificarNota\WinAppClasificarNota\obj\Debug\WinAppClasificarNota.csproj.AssemblyReference.cache
+D:\CODE\proyectosC#\WinAppClasificarNota\WinAppClasificarNota\obj\Debug\WinAppClasificarNota.Form1.resources
+D:\CODE\proyectosC#\WinAppClasificarNota\WinAppClasificarNota\obj\Debug\WinAppClasificarNota.Properties.Resources.resources
+D:\CODE\proyectosC#\WinAppClasificarNota\WinAppClasificarNota\obj\Debug\WinAppClasificarNota.csproj.GenerateResource.cache
+D:\CODE\proyectosC#\WinAppClasificarNota\WinAppClasificarNota\obj\Debug\WinAppClasificarNota.csproj.CoreCompileInputs.cache
+D:\CODE\proyectosC#\WinAppClasificarNota\WinAppClasificarNota\obj\Debug\WinAppClasificarNota.exe
+D:\CODE\proyectosC#\WinAppClasificarNota\WinAppClasificarNota\obj\Debug\WinAppClasificarNota.pdb

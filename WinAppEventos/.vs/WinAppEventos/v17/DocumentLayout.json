@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\proyectosC#\\WinAppEventos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F09AFA4-ECA1-4918-95F4-F21E1AB42CEA}|WinAppEventos\\WinAppEventos.csproj|d:\\code\\proyectosc#\\winappeventos\\winappeventos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F09AFA4-ECA1-4918-95F4-F21E1AB42CEA}|WinAppEventos\\WinAppEventos.csproj|solutionrelative:winappeventos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F09AFA4-ECA1-4918-95F4-F21E1AB42CEA}|WinAppEventos\\WinAppEventos.csproj|d:\\code\\proyectosc#\\winappeventos\\winappeventos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F09AFA4-ECA1-4918-95F4-F21E1AB42CEA}|WinAppEventos\\WinAppEventos.csproj|solutionrelative:winappeventos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F09AFA4-ECA1-4918-95F4-F21E1AB42CEA}|WinAppEventos\\WinAppEventos.csproj|d:\\code\\proyectosc#\\winappeventos\\winappeventos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F09AFA4-ECA1-4918-95F4-F21E1AB42CEA}|WinAppEventos\\WinAppEventos.csproj|solutionrelative:winappeventos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppEventos\\WinAppEventos\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEventos\\Form1.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppEventos\\WinAppEventos\\Form1.cs",
+              "RelativeToolTip": "WinAppEventos\\Form1.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:09:42.499Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppEventos\\WinAppEventos\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppEventos\\Form1.Designer.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppEventos\\WinAppEventos\\Form1.Designer.cs",
+              "RelativeToolTip": "WinAppEventos\\Form1.Designer.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAjwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:18:31.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppEventos\\WinAppEventos\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppEventos\\Form1.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppEventos\\WinAppEventos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppEventos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:01:48.752Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

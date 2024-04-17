@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\proyectosC#\\WinAppMayor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7736009-3861-41A8-8F79-EBA34E4B92C0}|WinAppMayor\\WinAppMayor.csproj|d:\\code\\proyectosc#\\winappmayor\\winappmayor\\clmayor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7736009-3861-41A8-8F79-EBA34E4B92C0}|WinAppMayor\\WinAppMayor.csproj|solutionrelative:winappmayor\\clmayor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7736009-3861-41A8-8F79-EBA34E4B92C0}|WinAppMayor\\WinAppMayor.csproj|d:\\code\\proyectosc#\\winappmayor\\winappmayor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7736009-3861-41A8-8F79-EBA34E4B92C0}|WinAppMayor\\WinAppMayor.csproj|solutionrelative:winappmayor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7736009-3861-41A8-8F79-EBA34E4B92C0}|WinAppMayor\\WinAppMayor.csproj|d:\\code\\proyectosc#\\winappmayor\\winappmayor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7736009-3861-41A8-8F79-EBA34E4B92C0}|WinAppMayor\\WinAppMayor.csproj|solutionrelative:winappmayor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppMayor\\WinAppMayor\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppMayor\\Form1.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppMayor\\WinAppMayor\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppMayor\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:04:05.841Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppMayor\\WinAppMayor\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppMayor\\Form1.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppMayor\\WinAppMayor\\Form1.cs",
+              "RelativeToolTip": "WinAppMayor\\Form1.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAD4vz0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:09:39.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClMayor.cs",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppMayor\\WinAppMayor\\ClMayor.cs",
+              "RelativeDocumentMoniker": "WinAppMayor\\ClMayor.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppMayor\\WinAppMayor\\ClMayor.cs",
+              "RelativeToolTip": "WinAppMayor\\ClMayor.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:04:33.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

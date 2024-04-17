@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\proyectosC#\\WinAppMenu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|d:\\code\\proyectosc#\\winappmenu\\winappmenu\\acercaformulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|solutionrelative:winappmenu\\acercaformulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|d:\\code\\proyectosc#\\winappmenu\\winappmenu\\acercaformulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|solutionrelative:winappmenu\\acercaformulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|d:\\code\\proyectosc#\\winappmenu\\winappmenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|solutionrelative:winappmenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|d:\\code\\proyectosc#\\winappmenu\\winappmenu\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|solutionrelative:winappmenu\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|d:\\code\\proyectosc#\\winappmenu\\winappmenu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|solutionrelative:winappmenu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|d:\\code\\proyectosc#\\winappmenu\\winappmenu\\formularioparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|solutionrelative:winappmenu\\formularioparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|D:\\CODE\\proyectosC#\\WinAppMenu\\winappmenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|solutionrelative:winappmenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppMenu\\WinAppMenu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppMenu\\Form1.Designer.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppMenu\\WinAppMenu\\Form1.Designer.cs*",
+              "RelativeToolTip": "WinAppMenu\\Form1.Designer.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:12:47.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppMenu\\WinAppMenu\\Form1.resx",
+              "RelativeDocumentMoniker": "WinAppMenu\\Form1.resx",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppMenu\\WinAppMenu\\Form1.resx*",
+              "RelativeToolTip": "WinAppMenu\\Form1.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-16T12:12:44.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppMenu\\WinAppMenu\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppMenu\\Form1.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppMenu\\WinAppMenu\\Form1.cs*",
+              "RelativeToolTip": "WinAppMenu\\Form1.cs*",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAHIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:30:26.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "acercaFormulario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppMenu\\WinAppMenu\\acercaFormulario.cs",
+              "RelativeDocumentMoniker": "WinAppMenu\\acercaFormulario.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppMenu\\WinAppMenu\\acercaFormulario.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "WinAppMenu\\acercaFormulario.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:34:05.046Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "acercaFormulario.cs",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppMenu\\WinAppMenu\\acercaFormulario.cs",
+              "RelativeDocumentMoniker": "WinAppMenu\\acercaFormulario.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppMenu\\WinAppMenu\\acercaFormulario.cs*",
+              "RelativeToolTip": "WinAppMenu\\acercaFormulario.cs*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAWwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:35:12.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formularioParcial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppMenu\\WinAppMenu\\formularioParcial.cs",
+              "RelativeDocumentMoniker": "WinAppMenu\\formularioParcial.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppMenu\\WinAppMenu\\formularioParcial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppMenu\\formularioParcial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:42:57.592Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppMenu\\WinAppMenu\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppMenu\\Form1.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppMenu\\WinAppMenu\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "WinAppMenu\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:29:04.807Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\CODE\proyectosC#\WinAppEventos\WinAppEventos\bin\Debug\WinAppEventos.exe.config
+D:\CODE\proyectosC#\WinAppEventos\WinAppEventos\bin\Debug\WinAppEventos.exe
+D:\CODE\proyectosC#\WinAppEventos\WinAppEventos\bin\Debug\WinAppEventos.pdb
+D:\CODE\proyectosC#\WinAppEventos\WinAppEventos\obj\Debug\WinAppEventos.csproj.AssemblyReference.cache
+D:\CODE\proyectosC#\WinAppEventos\WinAppEventos\obj\Debug\WinAppEventos.Properties.Resources.resources
+D:\CODE\proyectosC#\WinAppEventos\WinAppEventos\obj\Debug\WinAppEventos.csproj.GenerateResource.cache
+D:\CODE\proyectosC#\WinAppEventos\WinAppEventos\obj\Debug\WinAppEventos.csproj.CoreCompileInputs.cache
+D:\CODE\proyectosC#\WinAppEventos\WinAppEventos\obj\Debug\WinAppEventos.exe
+D:\CODE\proyectosC#\WinAppEventos\WinAppEventos\obj\Debug\WinAppEventos.pdb
+D:\CODE\proyectosC#\WinAppEventos\WinAppEventos\obj\Debug\WinAppEventos.Form1.resources

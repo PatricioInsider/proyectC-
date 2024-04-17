@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\proyectosC#\\WinAppPanelesBunifu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3AFB6-E49C-4623-9F3C-5A3EF6EA6A6B}|WinAppPanelesBunifu\\WinAppPanelesBunifu.csproj|d:\\code\\proyectosc#\\winapppanelesbunifu\\winapppanelesbunifu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68C3AFB6-E49C-4623-9F3C-5A3EF6EA6A6B}|WinAppPanelesBunifu\\WinAppPanelesBunifu.csproj|solutionrelative:winapppanelesbunifu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3AFB6-E49C-4623-9F3C-5A3EF6EA6A6B}|WinAppPanelesBunifu\\WinAppPanelesBunifu.csproj|d:\\code\\proyectosc#\\winapppanelesbunifu\\winapppanelesbunifu\\frmcarafeliz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68C3AFB6-E49C-4623-9F3C-5A3EF6EA6A6B}|WinAppPanelesBunifu\\WinAppPanelesBunifu.csproj|solutionrelative:winapppanelesbunifu\\frmcarafeliz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3AFB6-E49C-4623-9F3C-5A3EF6EA6A6B}|WinAppPanelesBunifu\\WinAppPanelesBunifu.csproj|d:\\code\\proyectosc#\\winapppanelesbunifu\\winapppanelesbunifu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3AFB6-E49C-4623-9F3C-5A3EF6EA6A6B}|WinAppPanelesBunifu\\WinAppPanelesBunifu.csproj|solutionrelative:winapppanelesbunifu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppPanelesBunifu\\WinAppPanelesBunifu\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppPanelesBunifu\\Form1.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppPanelesBunifu\\WinAppPanelesBunifu\\Form1.cs",
+              "RelativeToolTip": "WinAppPanelesBunifu\\Form1.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAjwDgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:47:55.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCaraFeliz.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppPanelesBunifu\\WinAppPanelesBunifu\\FrmCaraFeliz.cs",
+              "RelativeDocumentMoniker": "WinAppPanelesBunifu\\FrmCaraFeliz.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppPanelesBunifu\\WinAppPanelesBunifu\\FrmCaraFeliz.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppPanelesBunifu\\FrmCaraFeliz.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:47:52.628Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppPanelesBunifu\\WinAppPanelesBunifu\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppPanelesBunifu\\Form1.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppPanelesBunifu\\WinAppPanelesBunifu\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppPanelesBunifu\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:41:17.737Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

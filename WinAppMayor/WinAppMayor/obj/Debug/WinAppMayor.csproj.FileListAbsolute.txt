@@ -1,0 +1,10 @@
+D:\CODE\proyectosC#\WinAppMayor\WinAppMayor\bin\Debug\WinAppMayor.exe.config
+D:\CODE\proyectosC#\WinAppMayor\WinAppMayor\bin\Debug\WinAppMayor.exe
+D:\CODE\proyectosC#\WinAppMayor\WinAppMayor\bin\Debug\WinAppMayor.pdb
+D:\CODE\proyectosC#\WinAppMayor\WinAppMayor\obj\Debug\WinAppMayor.csproj.AssemblyReference.cache
+D:\CODE\proyectosC#\WinAppMayor\WinAppMayor\obj\Debug\WinAppMayor.Form1.resources
+D:\CODE\proyectosC#\WinAppMayor\WinAppMayor\obj\Debug\WinAppMayor.Properties.Resources.resources
+D:\CODE\proyectosC#\WinAppMayor\WinAppMayor\obj\Debug\WinAppMayor.csproj.GenerateResource.cache
+D:\CODE\proyectosC#\WinAppMayor\WinAppMayor\obj\Debug\WinAppMayor.csproj.CoreCompileInputs.cache
+D:\CODE\proyectosC#\WinAppMayor\WinAppMayor\obj\Debug\WinAppMayor.exe
+D:\CODE\proyectosC#\WinAppMayor\WinAppMayor\obj\Debug\WinAppMayor.pdb

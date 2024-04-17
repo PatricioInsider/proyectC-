@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\CODE\\proyectosC#\\WinAppDiscriminante\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA24CEC2-F4CD-4FAC-8A44-710A0DB78E3C}|WinAppDiscriminante\\WinAppDiscriminante.csproj|d:\\code\\proyectosc#\\winappdiscriminante\\winappdiscriminante\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA24CEC2-F4CD-4FAC-8A44-710A0DB78E3C}|WinAppDiscriminante\\WinAppDiscriminante.csproj|d:\\code\\proyectosc#\\winappdiscriminante\\winappdiscriminante\\cldiscri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA24CEC2-F4CD-4FAC-8A44-710A0DB78E3C}|WinAppDiscriminante\\WinAppDiscriminante.csproj|solutionrelative:winappdiscriminante\\cldiscri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA24CEC2-F4CD-4FAC-8A44-710A0DB78E3C}|WinAppDiscriminante\\WinAppDiscriminante.csproj|D:\\CODE\\proyectosC#\\WinAppDiscriminante\\winappdiscriminante\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA24CEC2-F4CD-4FAC-8A44-710A0DB78E3C}|WinAppDiscriminante\\WinAppDiscriminante.csproj|solutionrelative:winappdiscriminante\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA24CEC2-F4CD-4FAC-8A44-710A0DB78E3C}|WinAppDiscriminante\\WinAppDiscriminante.csproj|d:\\code\\proyectosc#\\winappdiscriminante\\winappdiscriminante\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DA24CEC2-F4CD-4FAC-8A44-710A0DB78E3C}|WinAppDiscriminante\\WinAppDiscriminante.csproj|D:\\CODE\\proyectosC#\\WinAppDiscriminante\\winappdiscriminante\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DA24CEC2-F4CD-4FAC-8A44-710A0DB78E3C}|WinAppDiscriminante\\WinAppDiscriminante.csproj|solutionrelative:winappdiscriminante\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,27 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppDiscriminante\\WinAppDiscriminante\\Form1.cs",
-              "RelativeDocumentMoniker": "WinAppDiscriminante\\Form1.cs",
-              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppDiscriminante\\WinAppDiscriminante\\Form1.cs",
-              "RelativeToolTip": "WinAppDiscriminante\\Form1.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEkAAABNAAAA",
+              "Title": "ClDiscri.cs",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppDiscriminante\\WinAppDiscriminante\\ClDiscri.cs",
+              "RelativeDocumentMoniker": "WinAppDiscriminante\\ClDiscri.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppDiscriminante\\WinAppDiscriminante\\ClDiscri.cs",
+              "RelativeToolTip": "WinAppDiscriminante\\ClDiscri.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T13:20:35.153Z",
+              "WhenOpened": "2024-04-10T16:43:09.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppDiscriminante\\WinAppDiscriminante\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppDiscriminante\\Form1.cs",
+              "ToolTip": "D:\\CODE\\proyectosC#\\WinAppDiscriminante\\WinAppDiscriminante\\Form1.cs",
+              "RelativeToolTip": "WinAppDiscriminante\\Form1.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAqwFUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:20:35.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\CODE\\proyectosC#\\WinAppDiscriminante\\WinAppDiscriminante\\Form1.cs",
               "RelativeDocumentMoniker": "WinAppDiscriminante\\Form1.cs",
               "ToolTip": "D:\\CODE\\proyectosC#\\WinAppDiscriminante\\WinAppDiscriminante\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinAppDiscriminante\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T13:15:51.009Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-04-09T13:15:51.009Z"
             }
           ]
         }

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{5BA5036A-1A36-4FF3-9A9C-510DC0ABE190}|WinInterfazVoz\\WinInterfazVoz.csproj|solutionrelative:wininterfazvoz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BA5036A-1A36-4FF3-9A9C-510DC0ABE190}|WinInterfazVoz\\WinInterfazVoz.csproj|d:\\code\\proyectosc#\\wininterfazvoz\\wininterfazvoz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5BA5036A-1A36-4FF3-9A9C-510DC0ABE190}|WinInterfazVoz\\WinInterfazVoz.csproj|D:\\CODE\\proyectosC#\\WinInterfazVoz\\wininterfazvoz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5BA5036A-1A36-4FF3-9A9C-510DC0ABE190}|WinInterfazVoz\\WinInterfazVoz.csproj|solutionrelative:wininterfazvoz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "WinInterfazVoz\\Form1.cs",
               "ToolTip": "D:\\CODE\\proyectosC#\\WinInterfazVoz\\WinInterfazVoz\\Form1.cs",
               "RelativeToolTip": "WinInterfazVoz\\Form1.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABcAAAAfAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T12:33:15.26Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "D:\\CODE\\proyectosC#\\WinInterfazVoz\\WinInterfazVoz\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinInterfazVoz\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T12:27:37.429Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-04-09T12:27:37.429Z"
             }
           ]
         }
