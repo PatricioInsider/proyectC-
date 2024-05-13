@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog2_calcularDistanciaXY", "Prog2_calcularDistanciaXY\Prog2_calcularDistanciaXY.csproj", "{EF8A1FBF-CADE-4025-A89D-FE60FE9273EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8A1FBF-CADE-4025-A89D-FE60FE9273EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8A1FBF-CADE-4025-A89D-FE60FE9273EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8A1FBF-CADE-4025-A89D-FE60FE9273EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8A1FBF-CADE-4025-A89D-FE60FE9273EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11AF7D13-3500-4738-B09F-51DBA0672C61}
+	EndGlobalSection
+EndGlobal

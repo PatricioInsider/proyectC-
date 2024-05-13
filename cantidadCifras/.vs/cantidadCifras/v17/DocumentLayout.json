@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\Documentos Ext\\CODE\\ProyectosC#\\cantidadCifras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5D73512-FCD6-44BD-8E1E-5EFFABB2C2FC}|cantidadCifras\\cantidadCifras.csproj|f:\\documentos ext\\code\\proyectosc#\\cantidadcifras\\cantidadcifras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D5D73512-FCD6-44BD-8E1E-5EFFABB2C2FC}|cantidadCifras\\cantidadCifras.csproj|solutionrelative:cantidadcifras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D5D73512-FCD6-44BD-8E1E-5EFFABB2C2FC}|cantidadCifras\\cantidadCifras.csproj|F:\\Documentos Ext\\CODE\\ProyectosC#\\cantidadCifras\\cantidadcifras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D73512-FCD6-44BD-8E1E-5EFFABB2C2FC}|cantidadCifras\\cantidadCifras.csproj|solutionrelative:cantidadcifras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D73512-FCD6-44BD-8E1E-5EFFABB2C2FC}|cantidadCifras\\cantidadCifras.csproj|f:\\documentos ext\\code\\proyectosc#\\cantidadcifras\\cantidadcifras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D73512-FCD6-44BD-8E1E-5EFFABB2C2FC}|cantidadCifras\\cantidadCifras.csproj|solutionrelative:cantidadcifras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5D73512-FCD6-44BD-8E1E-5EFFABB2C2FC}|cantidadCifras\\cantidadCifras.csproj|F:\\Documentos Ext\\CODE\\ProyectosC#\\cantidadCifras\\cantidadcifras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5D73512-FCD6-44BD-8E1E-5EFFABB2C2FC}|cantidadCifras\\cantidadCifras.csproj|solutionrelative:cantidadcifras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5D73512-FCD6-44BD-8E1E-5EFFABB2C2FC}|cantidadCifras\\cantidadCifras.csproj|f:\\documentos ext\\code\\proyectosc#\\cantidadcifras\\cantidadcifras\\clnumeroentero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,20 +43,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "F:\\Documentos Ext\\CODE\\ProyectosC#\\cantidadCifras\\cantidadCifras\\Form1.cs",
               "RelativeDocumentMoniker": "cantidadCifras\\Form1.cs",
               "ToolTip": "F:\\Documentos Ext\\CODE\\ProyectosC#\\cantidadCifras\\cantidadCifras\\Form1.cs",
               "RelativeToolTip": "cantidadCifras\\Form1.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAowBIAAAAAAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAvwC4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T16:59:44.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "F:\\Documentos Ext\\CODE\\ProyectosC#\\cantidadCifras\\cantidadCifras\\Form1.cs",
               "RelativeDocumentMoniker": "cantidadCifras\\Form1.cs",

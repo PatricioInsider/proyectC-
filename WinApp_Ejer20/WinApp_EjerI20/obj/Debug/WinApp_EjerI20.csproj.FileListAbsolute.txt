@@ -18,3 +18,13 @@ C:\Users\patom\Downloads\Ejer-Ind\WinApp_EjerI20\WinApp_EjerI20\obj\Debug\WinApp
 C:\Users\patom\Downloads\Ejer-Ind\WinApp_EjerI20\WinApp_EjerI20\obj\Debug\WinApp_EjerI20.csproj.CoreCompileInputs.cache
 C:\Users\patom\Downloads\Ejer-Ind\WinApp_EjerI20\WinApp_EjerI20\obj\Debug\WinApp_EjerI20.exe
 C:\Users\patom\Downloads\Ejer-Ind\WinApp_EjerI20\WinApp_EjerI20\obj\Debug\WinApp_EjerI20.pdb
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer20\WinApp_EjerI20\bin\Debug\WinApp_EjerI20.exe.config
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer20\WinApp_EjerI20\bin\Debug\WinApp_EjerI20.exe
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer20\WinApp_EjerI20\bin\Debug\WinApp_EjerI20.pdb
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer20\WinApp_EjerI20\obj\Debug\WinApp_EjerI20.csproj.AssemblyReference.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer20\WinApp_EjerI20\obj\Debug\WinApp_EjerI20.Form1.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer20\WinApp_EjerI20\obj\Debug\WinApp_EjerI20.Properties.Resources.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer20\WinApp_EjerI20\obj\Debug\WinApp_EjerI20.csproj.GenerateResource.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer20\WinApp_EjerI20\obj\Debug\WinApp_EjerI20.csproj.CoreCompileInputs.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer20\WinApp_EjerI20\obj\Debug\WinApp_EjerI20.exe
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer20\WinApp_EjerI20\obj\Debug\WinApp_EjerI20.pdb

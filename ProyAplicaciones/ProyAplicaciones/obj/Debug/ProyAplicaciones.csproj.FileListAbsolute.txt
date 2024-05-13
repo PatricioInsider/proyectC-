@@ -18,3 +18,13 @@ D:\CODE\proyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones
 D:\CODE\proyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.csproj.CoreCompileInputs.cache
 D:\CODE\proyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.dll
 D:\CODE\proyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.pdb
+F:\Documentos Ext\CODE\ProyectosC#\ProyAplicaciones\ProyAplicaciones\bin\Debug\ProyAplicaciones.dll.config
+F:\Documentos Ext\CODE\ProyectosC#\ProyAplicaciones\ProyAplicaciones\bin\Debug\ProyAplicaciones.dll
+F:\Documentos Ext\CODE\ProyectosC#\ProyAplicaciones\ProyAplicaciones\bin\Debug\ProyAplicaciones.pdb
+F:\Documentos Ext\CODE\ProyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.csproj.AssemblyReference.cache
+F:\Documentos Ext\CODE\ProyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.Form1.resources
+F:\Documentos Ext\CODE\ProyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.Properties.Resources.resources
+F:\Documentos Ext\CODE\ProyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.csproj.GenerateResource.cache
+F:\Documentos Ext\CODE\ProyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.csproj.CoreCompileInputs.cache
+F:\Documentos Ext\CODE\ProyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.dll
+F:\Documentos Ext\CODE\ProyectosC#\ProyAplicaciones\ProyAplicaciones\obj\Debug\ProyAplicaciones.pdb

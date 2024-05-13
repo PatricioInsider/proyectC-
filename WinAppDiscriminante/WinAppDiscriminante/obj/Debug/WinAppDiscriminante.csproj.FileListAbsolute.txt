@@ -8,3 +8,13 @@ D:\CODE\proyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDisc
 D:\CODE\proyectosC#\WinAppDiscriminante\WinAppDiscriminante\bin\Debug\WinAppDiscriminante.dll.config
 D:\CODE\proyectosC#\WinAppDiscriminante\WinAppDiscriminante\bin\Debug\WinAppDiscriminante.dll
 D:\CODE\proyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.dll
+F:\Documentos Ext\CODE\ProyectosC#\WinAppDiscriminante\WinAppDiscriminante\bin\Debug\WinAppDiscriminante.dll.config
+F:\Documentos Ext\CODE\ProyectosC#\WinAppDiscriminante\WinAppDiscriminante\bin\Debug\WinAppDiscriminante.dll
+F:\Documentos Ext\CODE\ProyectosC#\WinAppDiscriminante\WinAppDiscriminante\bin\Debug\WinAppDiscriminante.pdb
+F:\Documentos Ext\CODE\ProyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.csproj.AssemblyReference.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.Form1.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.Properties.Resources.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.csproj.GenerateResource.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.csproj.CoreCompileInputs.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.dll
+F:\Documentos Ext\CODE\ProyectosC#\WinAppDiscriminante\WinAppDiscriminante\obj\Debug\WinAppDiscriminante.pdb

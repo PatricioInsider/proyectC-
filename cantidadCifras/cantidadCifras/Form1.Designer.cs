@@ -34,15 +34,16 @@
             this.TxtNumero = new System.Windows.Forms.TextBox();
             this.BtnCalcular = new System.Windows.Forms.Button();
             this.LblRespuesta = new System.Windows.Forms.Label();
+            this.BtnCerrar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(342, 66);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(237, 104);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(205, 18);
+            this.label1.Size = new System.Drawing.Size(291, 24);
             this.label1.TabIndex = 0;
             this.label1.Text = "Cantidad cifras de un número ";
             // 
@@ -50,7 +51,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(232, 124);
+            this.label2.Location = new System.Drawing.Point(213, 208);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(66, 18);
             this.label2.TabIndex = 1;
@@ -60,7 +61,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(232, 185);
+            this.label3.Location = new System.Drawing.Point(213, 269);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(126, 18);
             this.label3.TabIndex = 2;
@@ -69,17 +70,18 @@
             // TxtNumero
             // 
             this.TxtNumero.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TxtNumero.Location = new System.Drawing.Point(447, 118);
+            this.TxtNumero.Location = new System.Drawing.Point(428, 202);
             this.TxtNumero.Name = "TxtNumero";
             this.TxtNumero.Size = new System.Drawing.Size(100, 24);
             this.TxtNumero.TabIndex = 3;
+            this.TxtNumero.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtNumero_KeyPress);
             // 
             // BtnCalcular
             // 
             this.BtnCalcular.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnCalcular.Location = new System.Drawing.Point(478, 232);
+            this.BtnCalcular.Location = new System.Drawing.Point(459, 316);
             this.BtnCalcular.Name = "BtnCalcular";
-            this.BtnCalcular.Size = new System.Drawing.Size(75, 23);
+            this.BtnCalcular.Size = new System.Drawing.Size(78, 27);
             this.BtnCalcular.TabIndex = 4;
             this.BtnCalcular.Text = "Calcular";
             this.BtnCalcular.UseVisualStyleBackColor = true;
@@ -89,16 +91,27 @@
             // 
             this.LblRespuesta.AutoSize = true;
             this.LblRespuesta.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LblRespuesta.Location = new System.Drawing.Point(444, 185);
+            this.LblRespuesta.Location = new System.Drawing.Point(425, 269);
             this.LblRespuesta.Name = "LblRespuesta";
             this.LblRespuesta.Size = new System.Drawing.Size(0, 18);
             this.LblRespuesta.TabIndex = 5;
+            // 
+            // BtnCerrar
+            // 
+            this.BtnCerrar.Location = new System.Drawing.Point(607, 391);
+            this.BtnCerrar.Name = "BtnCerrar";
+            this.BtnCerrar.Size = new System.Drawing.Size(143, 23);
+            this.BtnCerrar.TabIndex = 6;
+            this.BtnCerrar.Text = "Cerrar Programa";
+            this.BtnCerrar.UseVisualStyleBackColor = true;
+            this.BtnCerrar.Click += new System.EventHandler(this.BtnCerrar_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.BtnCerrar);
             this.Controls.Add(this.LblRespuesta);
             this.Controls.Add(this.BtnCalcular);
             this.Controls.Add(this.TxtNumero);
@@ -121,6 +134,7 @@
         private System.Windows.Forms.TextBox TxtNumero;
         private System.Windows.Forms.Button BtnCalcular;
         private System.Windows.Forms.Label LblRespuesta;
+        private System.Windows.Forms.Button BtnCerrar;
     }
 }
 

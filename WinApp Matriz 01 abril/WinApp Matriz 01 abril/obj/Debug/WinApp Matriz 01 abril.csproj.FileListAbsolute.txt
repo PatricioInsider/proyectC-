@@ -1,0 +1,11 @@
+C:\Users\SOFTWARE1\Desktop\Apps Informs\WinApp Matriz 01 abril\bin\Debug\WinApp Matriz 01 abril.exe.config
+C:\Users\SOFTWARE1\Desktop\Apps Informs\WinApp Matriz 01 abril\bin\Debug\WinApp Matriz 01 abril.exe
+C:\Users\SOFTWARE1\Desktop\Apps Informs\WinApp Matriz 01 abril\bin\Debug\WinApp Matriz 01 abril.pdb
+C:\Users\SOFTWARE1\Desktop\Apps Informs\WinApp Matriz 01 abril\obj\Debug\WinApp Matriz 01 abril.csproj.AssemblyReference.cache
+C:\Users\SOFTWARE1\Desktop\Apps Informs\WinApp Matriz 01 abril\obj\Debug\WinApp_Matriz_01_abril.Form1.resources
+C:\Users\SOFTWARE1\Desktop\Apps Informs\WinApp Matriz 01 abril\obj\Debug\WinApp_Matriz_01_abril.ingresarDatos.resources
+C:\Users\SOFTWARE1\Desktop\Apps Informs\WinApp Matriz 01 abril\obj\Debug\WinApp_Matriz_01_abril.Properties.Resources.resources
+C:\Users\SOFTWARE1\Desktop\Apps Informs\WinApp Matriz 01 abril\obj\Debug\WinApp Matriz 01 abril.csproj.GenerateResource.cache
+C:\Users\SOFTWARE1\Desktop\Apps Informs\WinApp Matriz 01 abril\obj\Debug\WinApp Matriz 01 abril.csproj.CoreCompileInputs.cache
+C:\Users\SOFTWARE1\Desktop\Apps Informs\WinApp Matriz 01 abril\obj\Debug\WinApp Matriz 01 abril.exe
+C:\Users\SOFTWARE1\Desktop\Apps Informs\WinApp Matriz 01 abril\obj\Debug\WinApp Matriz 01 abril.pdb

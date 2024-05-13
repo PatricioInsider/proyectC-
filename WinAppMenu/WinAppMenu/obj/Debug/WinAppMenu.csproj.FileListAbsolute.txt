@@ -18,3 +18,23 @@ D:\CODE\proyectosC#\WinAppMenu\WinAppMenu\bin\Debug\ProyAplicaciones.pdb
 D:\CODE\proyectosC#\WinAppMenu\WinAppMenu\bin\Debug\ProyAplicaciones.dll.config
 D:\CODE\proyectosC#\WinAppMenu\WinAppMenu\bin\Debug\ProyAplicaciones.exe.config
 D:\CODE\proyectosC#\WinAppMenu\WinAppMenu\obj\Debug\WinAppMenu.acercaFormulario.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\obj\Debug\WinAppMenu.csproj.AssemblyReference.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\obj\Debug\WinAppMenu.acercaFormulario.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\obj\Debug\WinAppMenu.Form1.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\obj\Debug\WinAppMenu.formularioParcial.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\obj\Debug\WinAppMenu.Properties.Resources.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\obj\Debug\WinAppMenu.csproj.GenerateResource.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\obj\Debug\WinAppMenu.csproj.CoreCompileInputs.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\obj\Debug\WinAppMenu.exe
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\obj\Debug\WinAppMenu.pdb
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\bin\Debug\WinAppMenu.exe.config
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\bin\Debug\WinAppMenu.exe
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\bin\Debug\WinAppMenu.pdb
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\bin\Debug\ProyAplicaciones.dll
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\bin\Debug\WinAppDiscriminante.dll
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\bin\Debug\ProyAplicaciones.pdb
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\bin\Debug\ProyAplicaciones.dll.config
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\bin\Debug\ProyAplicaciones.exe.config
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\bin\Debug\WinAppDiscriminante.pdb
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\bin\Debug\WinAppDiscriminante.dll.config
+F:\Documentos Ext\CODE\ProyectosC#\WinAppMenu\WinAppMenu\obj\Debug\WinAppMenu.csproj.Up2Date
