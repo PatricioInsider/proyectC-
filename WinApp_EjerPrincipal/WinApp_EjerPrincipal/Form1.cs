@@ -26,5 +26,16 @@ namespace WinApp_EjerPrincipal
         {
             this.Close();
         }
+
+        private void cantidadDeCifrasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            
+        }
+
+        private void distanciaEntre2PuntosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

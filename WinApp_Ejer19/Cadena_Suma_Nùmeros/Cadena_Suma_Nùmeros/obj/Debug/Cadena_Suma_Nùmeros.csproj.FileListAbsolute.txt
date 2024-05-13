@@ -1,0 +1,32 @@
+C:\Users\SOFTWARE1\Desktop\Programas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\bin\Debug\Cadena_Suma_Nùmeros.exe.config
+C:\Users\SOFTWARE1\Desktop\Programas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\bin\Debug\Cadena_Suma_Nùmeros.exe
+C:\Users\SOFTWARE1\Desktop\Programas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\bin\Debug\Cadena_Suma_Nùmeros.pdb
+C:\Users\SOFTWARE1\Desktop\Programas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.csproj.AssemblyReference.cache
+C:\Users\SOFTWARE1\Desktop\Programas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.Form1.resources
+C:\Users\SOFTWARE1\Desktop\Programas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.Properties.Resources.resources
+C:\Users\SOFTWARE1\Desktop\Programas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.csproj.GenerateResource.cache
+C:\Users\SOFTWARE1\Desktop\Programas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.csproj.CoreCompileInputs.cache
+C:\Users\SOFTWARE1\Desktop\Programas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.exe
+C:\Users\SOFTWARE1\Desktop\Programas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.pdb
+C:\Users\franc\Documents\ESPOCH\5to SEMESTRE\APLICACIONES INFORMÁTICAS I\Progrmas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\bin\Debug\Resources\Escudo_de_la_Escuela_Superior_Politécnica_de_Chimborazo.png
+C:\Users\franc\Documents\ESPOCH\5to SEMESTRE\APLICACIONES INFORMÁTICAS I\Progrmas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\bin\Debug\Cadena_Suma_Nùmeros.exe.config
+C:\Users\franc\Documents\ESPOCH\5to SEMESTRE\APLICACIONES INFORMÁTICAS I\Progrmas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\bin\Debug\Cadena_Suma_Nùmeros.exe
+C:\Users\franc\Documents\ESPOCH\5to SEMESTRE\APLICACIONES INFORMÁTICAS I\Progrmas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\bin\Debug\Cadena_Suma_Nùmeros.pdb
+C:\Users\franc\Documents\ESPOCH\5to SEMESTRE\APLICACIONES INFORMÁTICAS I\Progrmas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\ESPOCH\5to SEMESTRE\APLICACIONES INFORMÁTICAS I\Progrmas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.Form1.resources
+C:\Users\franc\Documents\ESPOCH\5to SEMESTRE\APLICACIONES INFORMÁTICAS I\Progrmas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.Properties.Resources.resources
+C:\Users\franc\Documents\ESPOCH\5to SEMESTRE\APLICACIONES INFORMÁTICAS I\Progrmas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.csproj.GenerateResource.cache
+C:\Users\franc\Documents\ESPOCH\5to SEMESTRE\APLICACIONES INFORMÁTICAS I\Progrmas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\ESPOCH\5to SEMESTRE\APLICACIONES INFORMÁTICAS I\Progrmas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.exe
+C:\Users\franc\Documents\ESPOCH\5to SEMESTRE\APLICACIONES INFORMÁTICAS I\Progrmas Apli\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.pdb
+F:\Descargas Ext\ejer19\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\bin\Debug\Resources\Escudo_de_la_Escuela_Superior_Politécnica_de_Chimborazo.png
+F:\Descargas Ext\ejer19\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\bin\Debug\Cadena_Suma_Nùmeros.exe.config
+F:\Descargas Ext\ejer19\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\bin\Debug\Cadena_Suma_Nùmeros.exe
+F:\Descargas Ext\ejer19\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\bin\Debug\Cadena_Suma_Nùmeros.pdb
+F:\Descargas Ext\ejer19\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.csproj.AssemblyReference.cache
+F:\Descargas Ext\ejer19\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.Form1.resources
+F:\Descargas Ext\ejer19\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.Properties.Resources.resources
+F:\Descargas Ext\ejer19\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.csproj.GenerateResource.cache
+F:\Descargas Ext\ejer19\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.csproj.CoreCompileInputs.cache
+F:\Descargas Ext\ejer19\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.exe
+F:\Descargas Ext\ejer19\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\obj\Debug\Cadena_Suma_Nùmeros.pdb

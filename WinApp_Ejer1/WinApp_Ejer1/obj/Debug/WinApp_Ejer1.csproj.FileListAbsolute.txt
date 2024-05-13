@@ -28,3 +28,13 @@ C:\Users\patom\Downloads\Ejer-Ind\WinApp_Ejer1\WinApp_Ejer1\obj\Debug\WinApp_Eje
 C:\Users\patom\Downloads\Ejer-Ind\WinApp_Ejer1\WinApp_Ejer1\obj\Debug\WinApp_Ejer1.csproj.CoreCompileInputs.cache
 C:\Users\patom\Downloads\Ejer-Ind\WinApp_Ejer1\WinApp_Ejer1\obj\Debug\WinApp_Ejer1.exe
 C:\Users\patom\Downloads\Ejer-Ind\WinApp_Ejer1\WinApp_Ejer1\obj\Debug\WinApp_Ejer1.pdb
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer1\WinApp_Ejer1\bin\Debug\WinApp_Ejer1.exe.config
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer1\WinApp_Ejer1\bin\Debug\WinApp_Ejer1.exe
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer1\WinApp_Ejer1\bin\Debug\WinApp_Ejer1.pdb
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer1\WinApp_Ejer1\obj\Debug\WinApp_Ejer1.csproj.AssemblyReference.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer1\WinApp_Ejer1\obj\Debug\WinApp_Ejer1.Form1.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer1\WinApp_Ejer1\obj\Debug\WinApp_Ejer1.Properties.Resources.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer1\WinApp_Ejer1\obj\Debug\WinApp_Ejer1.csproj.GenerateResource.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer1\WinApp_Ejer1\obj\Debug\WinApp_Ejer1.csproj.CoreCompileInputs.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer1\WinApp_Ejer1\obj\Debug\WinApp_Ejer1.exe
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer1\WinApp_Ejer1\obj\Debug\WinApp_Ejer1.pdb

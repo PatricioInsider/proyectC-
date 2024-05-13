@@ -5,13 +5,28 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{19EFC1C2-355A-4611-B028-8B4613114992}</ProjectGuid>
-    <OutputType>WinExe</OutputType>
+    <OutputType>Library</OutputType>
     <RootNamespace>WinApp_EjerPrincipal</RootNamespace>
     <AssemblyName>WinApp_EjerPrincipal</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -31,6 +46,9 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -78,6 +96,100 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\WinApp_Ejer10\WinApp_EjerI10\WinApp_EjerI10.csproj">
+      <Project>{05cdd6da-a736-4fdc-8b04-57de1a751a7e}</Project>
+      <Name>WinApp_EjerI10</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer11\Compra Interactiva con precios\Compra Interactiva con precios.csproj">
+      <Project>{667481ef-f37e-4beb-9d37-5bc4fcc1263e}</Project>
+      <Name>Compra Interactiva con precios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer12\WinApp_EjerI12\WinApp_EjerI12.csproj">
+      <Project>{5dcc316b-dd3a-4d80-ba8c-42df515caf67}</Project>
+      <Name>WinApp_EjerI12</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer13\WinApp_EjerI13\WinApp_EjerI13.csproj">
+      <Project>{212c8a42-a89a-4baa-827b-7e9194456b4f}</Project>
+      <Name>WinApp_EjerI13</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer14\WinApp_EjerI14\WinApp_EjerI14.csproj">
+      <Project>{5af5628b-7ea1-404c-97d2-bec326cf7f40}</Project>
+      <Name>WinApp_EjerI14</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer15\WinApp_Ejer15\WinApp_Ejer15.csproj">
+      <Project>{3ea8f904-9cd2-4d8d-892b-4b011e8333b1}</Project>
+      <Name>WinApp_Ejer15</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer16\16.WindowsFormsApp1.Matriz\16.WindowsFormsApp1.Matriz.csproj">
+      <Project>{8f42cd50-b145-4269-8d11-04841308ff01}</Project>
+      <Name>16.WindowsFormsApp1.Matriz</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer17\Matriz_Valores_Numericos_Dimension\Matriz_Valores_Numericos_Dimension\Matriz_Valores_Numericos_Dimension.csproj">
+      <Project>{4086de14-1530-49ee-8330-79c8a48c0419}</Project>
+      <Name>Matriz_Valores_Numericos_Dimension</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer18\Editor_de_Text\Editor_de_Text\Editor_de_Text.csproj">
+      <Project>{cb199ba8-4b7e-4a31-a8e0-85155642cb6f}</Project>
+      <Name>Editor_de_Text</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer19\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros\Cadena_Suma_Nùmeros.csproj">
+      <Project>{35b1590f-bef3-41a4-980c-7c8f6635a497}</Project>
+      <Name>Cadena_Suma_Nùmeros</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer1\WinApp_Ejer1\WinApp_Ejer1.csproj">
+      <Project>{af1da13b-53d8-4885-8e07-c771197ebd66}</Project>
+      <Name>WinApp_Ejer1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer20\WinApp_EjerI20\WinApp_EjerI20.csproj">
+      <Project>{83d83da1-36c8-45c9-8f38-b57534649577}</Project>
+      <Name>WinApp_EjerI20</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer2\WinApp_Ejer2\WinApp_Ejer2.csproj">
+      <Project>{c263b657-7246-43b7-9725-d977371da468}</Project>
+      <Name>WinApp_Ejer2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer3\WinApp_EjerI2\WinApp_EjerI2.csproj">
+      <Project>{5090da6e-8adf-4dfc-8e6e-eaea1ce91d6e}</Project>
+      <Name>WinApp_EjerI2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer4\WinApp_EjerI4\WinApp_EjerI4.csproj">
+      <Project>{86d75074-f021-4f88-a3da-2b7a40e02329}</Project>
+      <Name>WinApp_EjerI4</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer5\Calculadora\Calculadora.csproj">
+      <Project>{9854edf3-d51e-4a1c-b891-7ddbc95562ef}</Project>
+      <Name>Calculadora</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer6\WinApp_Ejer6\WinApp_Ejer6.csproj">
+      <Project>{61d5def3-f99f-48ca-86d9-5bc326825939}</Project>
+      <Name>WinApp_Ejer6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer7\WinApp_EjerI7\WinApp_EjerI7.csproj">
+      <Project>{679352a7-e92c-4797-a33b-fa2926d6da73}</Project>
+      <Name>WinApp_EjerI7</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer8\WinApp_EjerI8\WinApp_EjerI8.csproj">
+      <Project>{13371070-c176-4b22-a960-c43b07be3c92}</Project>
+      <Name>WinApp_EjerI8</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinApp_Ejer9\WinApp_EjerI9\WinApp_EjerI9.csproj">
+      <Project>{bd26c5d5-db44-4127-9ba2-e0b8c7b52b82}</Project>
+      <Name>WinApp_EjerI9</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

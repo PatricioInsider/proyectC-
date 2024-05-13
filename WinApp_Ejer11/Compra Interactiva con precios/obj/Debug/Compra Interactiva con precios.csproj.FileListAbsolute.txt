@@ -1,0 +1,44 @@
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\bin\Debug\Compra Interactiva con precios.exe.config
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\bin\Debug\Compra Interactiva con precios.exe
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\bin\Debug\Compra Interactiva con precios.pdb
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.csproj.AssemblyReference.cache
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.formInicioCompraInt.resources
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.Properties.Resources.resources
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.csproj.GenerateResource.cache
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.exe
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.pdb
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.frmRopa.resources
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.frmHogar.resources
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.frmTech.resources
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.frmVehiculos.resources
+C:\Users\MSI\Proyectos C#\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.frmCarrito.resources
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\bin\Debug\Compra Interactiva con precios.exe.config
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\bin\Debug\Compra Interactiva con precios.exe
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\bin\Debug\Compra Interactiva con precios.pdb
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.csproj.AssemblyReference.cache
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.formInicioCompraInt.resources
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.frmCarrito.resources
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.frmHogar.resources
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.frmRopa.resources
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.frmTech.resources
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.frmVehiculos.resources
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.Properties.Resources.resources
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.csproj.GenerateResource.cache
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.csproj.CoreCompileInputs.cache
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.exe
+F:\Descargas Ext\Compra Interactiva con precios\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.pdb
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer11\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.csproj.AssemblyReference.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer11\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.formInicioCompraInt.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer11\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.frmHogar.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer11\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.frmRopa.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer11\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.frmTech.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer11\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.frmVehiculos.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer11\Compra Interactiva con precios\obj\Debug\Compra_Interactiva_con_precios.Properties.Resources.resources
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer11\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.csproj.GenerateResource.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer11\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.csproj.CoreCompileInputs.cache
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer11\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.exe
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer11\Compra Interactiva con precios\obj\Debug\Compra Interactiva con precios.pdb
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer11\Compra Interactiva con precios\bin\Debug\Compra Interactiva con precios.exe.config
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer11\Compra Interactiva con precios\bin\Debug\Compra Interactiva con precios.exe
+F:\Documentos Ext\CODE\ProyectosC#\WinApp_Ejer11\Compra Interactiva con precios\bin\Debug\Compra Interactiva con precios.pdb

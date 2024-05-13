@@ -1,0 +1,10 @@
+C:\Users\Mbyte Soluciones\source\repos\WinApp_Ejer15\WinApp_Ejer15\bin\Debug\WinApp_Ejer15.exe.config
+C:\Users\Mbyte Soluciones\source\repos\WinApp_Ejer15\WinApp_Ejer15\bin\Debug\WinApp_Ejer15.exe
+C:\Users\Mbyte Soluciones\source\repos\WinApp_Ejer15\WinApp_Ejer15\bin\Debug\WinApp_Ejer15.pdb
+C:\Users\Mbyte Soluciones\source\repos\WinApp_Ejer15\WinApp_Ejer15\obj\Debug\WinApp_Ejer15.csproj.AssemblyReference.cache
+C:\Users\Mbyte Soluciones\source\repos\WinApp_Ejer15\WinApp_Ejer15\obj\Debug\WinApp_Ejer15.Form1.resources
+C:\Users\Mbyte Soluciones\source\repos\WinApp_Ejer15\WinApp_Ejer15\obj\Debug\WinApp_Ejer15.Properties.Resources.resources
+C:\Users\Mbyte Soluciones\source\repos\WinApp_Ejer15\WinApp_Ejer15\obj\Debug\WinApp_Ejer15.csproj.GenerateResource.cache
+C:\Users\Mbyte Soluciones\source\repos\WinApp_Ejer15\WinApp_Ejer15\obj\Debug\WinApp_Ejer15.csproj.CoreCompileInputs.cache
+C:\Users\Mbyte Soluciones\source\repos\WinApp_Ejer15\WinApp_Ejer15\obj\Debug\WinApp_Ejer15.exe
+C:\Users\Mbyte Soluciones\source\repos\WinApp_Ejer15\WinApp_Ejer15\obj\Debug\WinApp_Ejer15.pdb

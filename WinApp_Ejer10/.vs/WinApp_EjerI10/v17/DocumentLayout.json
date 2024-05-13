@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_EjerI10\\",
+  "WorkspaceRootPath": "F:\\Documentos Ext\\CODE\\ProyectosC#\\WinApp_Ejer10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05CDD6DA-A736-4FDC-8B04-57DE1A751A7E}|WinApp_EjerI10\\WinApp_EjerI10.csproj|c:\\users\\patom\\downloads\\ejer-ind\\winapp_ejeri10\\winapp_ejeri10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05CDD6DA-A736-4FDC-8B04-57DE1A751A7E}|WinApp_EjerI10\\WinApp_EjerI10.csproj|solutionrelative:winapp_ejeri10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{05CDD6DA-A736-4FDC-8B04-57DE1A751A7E}|WinApp_EjerI10\\WinApp_EjerI10.csproj|F:\\Documentos Ext\\CODE\\ProyectosC#\\WinApp_Ejer10\\winapp_ejeri10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDD6DA-A736-4FDC-8B04-57DE1A751A7E}|WinApp_EjerI10\\WinApp_EjerI10.csproj|solutionrelative:winapp_ejeri10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05CDD6DA-A736-4FDC-8B04-57DE1A751A7E}|WinApp_EjerI10\\WinApp_EjerI10.csproj|C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_EjerI10\\winapp_ejeri10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05CDD6DA-A736-4FDC-8B04-57DE1A751A7E}|WinApp_EjerI10\\WinApp_EjerI10.csproj|solutionrelative:winapp_ejeri10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05CDD6DA-A736-4FDC-8B04-57DE1A751A7E}|WinApp_EjerI10\\WinApp_EjerI10.csproj|f:\\documentos ext\\code\\proyectosc#\\winapp_ejer10\\winapp_ejeri10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CDD6DA-A736-4FDC-8B04-57DE1A751A7E}|WinApp_EjerI10\\WinApp_EjerI10.csproj|solutionrelative:winapp_ejeri10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,25 +21,29 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_EjerI10\\WinApp_EjerI10\\Form1.cs",
+              "DocumentMoniker": "F:\\Documentos Ext\\CODE\\ProyectosC#\\WinApp_Ejer10\\WinApp_EjerI10\\Form1.cs",
               "RelativeDocumentMoniker": "WinApp_EjerI10\\Form1.cs",
-              "ToolTip": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_EjerI10\\WinApp_EjerI10\\Form1.cs",
+              "ToolTip": "F:\\Documentos Ext\\CODE\\ProyectosC#\\WinApp_Ejer10\\WinApp_EjerI10\\Form1.cs",
               "RelativeToolTip": "WinApp_EjerI10\\Form1.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAgwFgAAAAZAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAArwE0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T02:01:13.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_EjerI10\\WinApp_EjerI10\\Form1.cs",
+              "DocumentMoniker": "F:\\Documentos Ext\\CODE\\ProyectosC#\\WinApp_Ejer10\\WinApp_EjerI10\\Form1.cs",
               "RelativeDocumentMoniker": "WinApp_EjerI10\\Form1.cs",
-              "ToolTip": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_EjerI10\\WinApp_EjerI10\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "F:\\Documentos Ext\\CODE\\ProyectosC#\\WinApp_Ejer10\\WinApp_EjerI10\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinApp_EjerI10\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T01:49:12.041Z",

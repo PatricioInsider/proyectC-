@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{667481EF-F37E-4BEB-9D37-5BC4FCC1263E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Compra_Interactiva_con_precios</RootNamespace>
+    <AssemblyName>Compra Interactiva con precios</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="calcularIva.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHogar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHogar.Designer.cs">
+      <DependentUpon>frmHogar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRopa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRopa.Designer.cs">
+      <DependentUpon>frmRopa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTech.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTech.Designer.cs">
+      <DependentUpon>frmTech.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVehiculos.Designer.cs">
+      <DependentUpon>frmVehiculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHogar.resx">
+      <DependentUpon>frmHogar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRopa.resx">
+      <DependentUpon>frmRopa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTech.resx">
+      <DependentUpon>frmTech.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVehiculos.resx">
+      <DependentUpon>frmVehiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ropa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tech1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\los-mejores-celulares-android-con-memoria-ampliable-022.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laptops.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hogar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cosmeticos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vehiculos.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bividi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camisa polo.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camisa_vestir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camiseta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jordan_1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chaleco_Alcochado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chamarra_biker.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chamarra_cuero.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chamarra_deportiva.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camiseta_sin_manga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zapatillas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zapato_vestir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sandalias.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sudadera.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pants_deportivos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pants_vestir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jeans.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chaqueta_americana.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pants_cargo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jersey.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chery.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chevrolet_groove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\daytona.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ferrari.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ford.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fortuner.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jeep.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lamborghini.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maserati_gt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moto_shineray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carrito.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carrito1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

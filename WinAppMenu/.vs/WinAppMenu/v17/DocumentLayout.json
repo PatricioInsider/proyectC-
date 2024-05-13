@@ -1,7 +1,30 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Documentos Ext\\CODE\\ProyectosC#\\WinAppMenu\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WinAppDiscriminante||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WinAppMenu||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ProyAplicaciones||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|f:\\documentos ext\\code\\proyectosc#\\winappmenu\\winappmenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|solutionrelative:winappmenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C1D655-E4B7-4EDD-BAE8-21FD77F1913B}|..\\ProyAplicaciones\\ProyAplicaciones\\ProyAplicaciones.csproj|f:\\documentos ext\\code\\proyectosc#\\proyaplicaciones\\proyaplicaciones\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F6777E-0411-4D44-A325-9A817C962583}|WinAppMenu\\WinAppMenu.csproj|f:\\documentos ext\\code\\proyectosc#\\winappmenu\\winappmenu\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA24CEC2-F4CD-4FAC-8A44-710A0DB78E3C}|..\\WinAppDiscriminante\\WinAppDiscriminante\\WinAppDiscriminante.csproj|f:\\documentos ext\\code\\proyectosc#\\winappdiscriminante\\winappdiscriminante\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +32,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinAppDiscriminante",
+              "DocumentMoniker": "F:\\Documentos Ext\\CODE\\ProyectosC#\\WinAppDiscriminante\\WinAppDiscriminante\\WinAppDiscriminante.csproj",
+              "RelativeDocumentMoniker": "..\\WinAppDiscriminante\\WinAppDiscriminante\\WinAppDiscriminante.csproj",
+              "ToolTip": "F:\\Documentos Ext\\CODE\\ProyectosC#\\WinAppDiscriminante\\WinAppDiscriminante\\WinAppDiscriminante.csproj",
+              "RelativeToolTip": "..\\WinAppDiscriminante\\WinAppDiscriminante\\WinAppDiscriminante.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T05:58:54.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WinAppMenu",
+              "DocumentMoniker": "F:\\Documentos Ext\\CODE\\ProyectosC#\\WinAppMenu\\WinAppMenu\\WinAppMenu.csproj",
+              "RelativeDocumentMoniker": "WinAppMenu\\WinAppMenu.csproj",
+              "ToolTip": "F:\\Documentos Ext\\CODE\\ProyectosC#\\WinAppMenu\\WinAppMenu\\WinAppMenu.csproj",
+              "RelativeToolTip": "WinAppMenu\\WinAppMenu.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T05:58:43.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProyAplicaciones",
+              "DocumentMoniker": "F:\\Documentos Ext\\CODE\\ProyectosC#\\ProyAplicaciones\\ProyAplicaciones\\ProyAplicaciones.csproj",
+              "RelativeDocumentMoniker": "..\\ProyAplicaciones\\ProyAplicaciones\\ProyAplicaciones.csproj",
+              "ToolTip": "F:\\Documentos Ext\\CODE\\ProyectosC#\\ProyAplicaciones\\ProyAplicaciones\\ProyAplicaciones.csproj",
+              "RelativeToolTip": "..\\ProyAplicaciones\\ProyAplicaciones\\ProyAplicaciones.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T05:47:10.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Documentos Ext\\CODE\\ProyectosC#\\WinAppMenu\\WinAppMenu\\Form1.cs",
+              "RelativeDocumentMoniker": "WinAppMenu\\Form1.cs",
+              "ToolTip": "F:\\Documentos Ext\\CODE\\ProyectosC#\\WinAppMenu\\WinAppMenu\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinAppMenu\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:45:21.265Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"

@@ -1,0 +1,10 @@
+C:\Users\jonat\Documents\Tareas de un conjunto de Programas Individuales\16.WindowsFormsApp1.Matriz\16.WindowsFormsApp1.Matriz\obj\Debug\16.WindowsFormsApp1.Matriz.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\Tareas de un conjunto de Programas Individuales\16.WindowsFormsApp1.Matriz\16.WindowsFormsApp1.Matriz\obj\Debug\_16.WindowsFormsApp1.Matriz.Form1.resources
+C:\Users\jonat\Documents\Tareas de un conjunto de Programas Individuales\16.WindowsFormsApp1.Matriz\16.WindowsFormsApp1.Matriz\obj\Debug\_16.WindowsFormsApp1.Matriz.Properties.Resources.resources
+C:\Users\jonat\Documents\Tareas de un conjunto de Programas Individuales\16.WindowsFormsApp1.Matriz\16.WindowsFormsApp1.Matriz\obj\Debug\16.WindowsFormsApp1.Matriz.csproj.GenerateResource.cache
+C:\Users\jonat\Documents\Tareas de un conjunto de Programas Individuales\16.WindowsFormsApp1.Matriz\16.WindowsFormsApp1.Matriz\obj\Debug\16.WindowsFormsApp1.Matriz.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\Tareas de un conjunto de Programas Individuales\16.WindowsFormsApp1.Matriz\16.WindowsFormsApp1.Matriz\bin\Debug\16.WindowsFormsApp1.Matriz.exe.config
+C:\Users\jonat\Documents\Tareas de un conjunto de Programas Individuales\16.WindowsFormsApp1.Matriz\16.WindowsFormsApp1.Matriz\bin\Debug\16.WindowsFormsApp1.Matriz.exe
+C:\Users\jonat\Documents\Tareas de un conjunto de Programas Individuales\16.WindowsFormsApp1.Matriz\16.WindowsFormsApp1.Matriz\bin\Debug\16.WindowsFormsApp1.Matriz.pdb
+C:\Users\jonat\Documents\Tareas de un conjunto de Programas Individuales\16.WindowsFormsApp1.Matriz\16.WindowsFormsApp1.Matriz\obj\Debug\16.WindowsFormsApp1.Matriz.exe
+C:\Users\jonat\Documents\Tareas de un conjunto de Programas Individuales\16.WindowsFormsApp1.Matriz\16.WindowsFormsApp1.Matriz\obj\Debug\16.WindowsFormsApp1.Matriz.pdb
