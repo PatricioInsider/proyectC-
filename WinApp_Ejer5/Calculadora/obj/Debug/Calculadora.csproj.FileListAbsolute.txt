@@ -1,0 +1,21 @@
+C:\Users\Santiago\Desktop\documentos u\Aplicaciones\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Santiago\Desktop\documentos u\Aplicaciones\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Santiago\Desktop\documentos u\Aplicaciones\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Santiago\Desktop\documentos u\Aplicaciones\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\documentos u\Aplicaciones\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santiago\Desktop\documentos u\Aplicaciones\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Santiago\Desktop\documentos u\Aplicaciones\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Santiago\Desktop\documentos u\Aplicaciones\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\documentos u\Aplicaciones\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\documentos u\Aplicaciones\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Santiago\Desktop\documentos u\Aplicaciones\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\patom\Documents\Aplicaciones Informaticas\Aplicaciones\Aplicaciones\WinApp 5. Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\patom\Documents\Aplicaciones Informaticas\Aplicaciones\Aplicaciones\WinApp 5. Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\patom\Documents\Aplicaciones Informaticas\Aplicaciones\Aplicaciones\WinApp 5. Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\patom\Documents\Aplicaciones Informaticas\Aplicaciones\Aplicaciones\WinApp 5. Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\patom\Documents\Aplicaciones Informaticas\Aplicaciones\Aplicaciones\WinApp 5. Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\patom\Documents\Aplicaciones Informaticas\Aplicaciones\Aplicaciones\WinApp 5. Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\patom\Documents\Aplicaciones Informaticas\Aplicaciones\Aplicaciones\WinApp 5. Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\patom\Documents\Aplicaciones Informaticas\Aplicaciones\Aplicaciones\WinApp 5. Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\patom\Documents\Aplicaciones Informaticas\Aplicaciones\Aplicaciones\WinApp 5. Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\patom\Documents\Aplicaciones Informaticas\Aplicaciones\Aplicaciones\WinApp 5. Calculadora\Calculadora\obj\Debug\Calculadora.pdb

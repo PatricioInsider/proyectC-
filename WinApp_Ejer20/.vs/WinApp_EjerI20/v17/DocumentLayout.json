@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_EjerI20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83D83DA1-36C8-45C9-8F38-B57534649577}|WinApp_EjerI20\\WinApp_EjerI20.csproj|C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_EjerI20\\winapp_ejeri20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83D83DA1-36C8-45C9-8F38-B57534649577}|WinApp_EjerI20\\WinApp_EjerI20.csproj|solutionrelative:winapp_ejeri20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D83DA1-36C8-45C9-8F38-B57534649577}|WinApp_EjerI20\\WinApp_EjerI20.csproj|c:\\users\\patom\\downloads\\ejer-ind\\winapp_ejeri20\\winapp_ejeri20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D83DA1-36C8-45C9-8F38-B57534649577}|WinApp_EjerI20\\WinApp_EjerI20.csproj|solutionrelative:winapp_ejeri20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_EjerI20\\WinApp_EjerI20\\Form1.cs",
+              "RelativeDocumentMoniker": "WinApp_EjerI20\\Form1.cs",
+              "ToolTip": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_EjerI20\\WinApp_EjerI20\\Form1.cs",
+              "RelativeToolTip": "WinApp_EjerI20\\Form1.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAowK8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T03:27:46.851Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_EjerI20\\WinApp_EjerI20\\Form1.cs",
+              "RelativeDocumentMoniker": "WinApp_EjerI20\\Form1.cs",
+              "ToolTip": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_EjerI20\\WinApp_EjerI20\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinApp_EjerI20\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T03:11:43.292Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

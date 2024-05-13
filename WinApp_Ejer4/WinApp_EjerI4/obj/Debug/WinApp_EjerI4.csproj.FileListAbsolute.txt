@@ -1,0 +1,10 @@
+C:\Users\kelly\OneDrive\Documentos\APPI\WinApp_EjerI4\WinApp_EjerI4\bin\Debug\WinApp_EjerI4.exe.config
+C:\Users\kelly\OneDrive\Documentos\APPI\WinApp_EjerI4\WinApp_EjerI4\bin\Debug\WinApp_EjerI4.exe
+C:\Users\kelly\OneDrive\Documentos\APPI\WinApp_EjerI4\WinApp_EjerI4\bin\Debug\WinApp_EjerI4.pdb
+C:\Users\kelly\OneDrive\Documentos\APPI\WinApp_EjerI4\WinApp_EjerI4\obj\Debug\WinApp_EjerI4.csproj.AssemblyReference.cache
+C:\Users\kelly\OneDrive\Documentos\APPI\WinApp_EjerI4\WinApp_EjerI4\obj\Debug\WinApp_EjerI4.Form1.resources
+C:\Users\kelly\OneDrive\Documentos\APPI\WinApp_EjerI4\WinApp_EjerI4\obj\Debug\WinApp_EjerI4.Properties.Resources.resources
+C:\Users\kelly\OneDrive\Documentos\APPI\WinApp_EjerI4\WinApp_EjerI4\obj\Debug\WinApp_EjerI4.csproj.GenerateResource.cache
+C:\Users\kelly\OneDrive\Documentos\APPI\WinApp_EjerI4\WinApp_EjerI4\obj\Debug\WinApp_EjerI4.csproj.CoreCompileInputs.cache
+C:\Users\kelly\OneDrive\Documentos\APPI\WinApp_EjerI4\WinApp_EjerI4\obj\Debug\WinApp_EjerI4.exe
+C:\Users\kelly\OneDrive\Documentos\APPI\WinApp_EjerI4\WinApp_EjerI4\obj\Debug\WinApp_EjerI4.pdb

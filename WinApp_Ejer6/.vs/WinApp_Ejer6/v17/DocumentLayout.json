@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_Ejer6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61D5DEF3-F99F-48CA-86D9-5BC326825939}|WinApp_Ejer6\\WinApp_Ejer6.csproj|c:\\users\\patom\\downloads\\ejer-ind\\winapp_ejer6\\winapp_ejer6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61D5DEF3-F99F-48CA-86D9-5BC326825939}|WinApp_Ejer6\\WinApp_Ejer6.csproj|solutionrelative:winapp_ejer6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D5DEF3-F99F-48CA-86D9-5BC326825939}|WinApp_Ejer6\\WinApp_Ejer6.csproj|C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_Ejer6\\winapp_ejer6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D5DEF3-F99F-48CA-86D9-5BC326825939}|WinApp_Ejer6\\WinApp_Ejer6.csproj|solutionrelative:winapp_ejer6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D5DEF3-F99F-48CA-86D9-5BC326825939}|WinApp_Ejer6\\WinApp_Ejer6.csproj|C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_Ejer6\\winapp_ejer6\\cltriang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D5DEF3-F99F-48CA-86D9-5BC326825939}|WinApp_Ejer6\\WinApp_Ejer6.csproj|solutionrelative:winapp_ejer6\\cltriang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClTriang.cs",
+              "DocumentMoniker": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_Ejer6\\WinApp_Ejer6\\ClTriang.cs",
+              "RelativeDocumentMoniker": "WinApp_Ejer6\\ClTriang.cs",
+              "ToolTip": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_Ejer6\\WinApp_Ejer6\\ClTriang.cs",
+              "RelativeToolTip": "WinApp_Ejer6\\ClTriang.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwEIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:06:52.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_Ejer6\\WinApp_Ejer6\\Form1.cs",
+              "RelativeDocumentMoniker": "WinApp_Ejer6\\Form1.cs",
+              "ToolTip": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_Ejer6\\WinApp_Ejer6\\Form1.cs",
+              "RelativeToolTip": "WinApp_Ejer6\\Form1.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAcwGEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:52:00.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_Ejer6\\WinApp_Ejer6\\Form1.cs",
+              "RelativeDocumentMoniker": "WinApp_Ejer6\\Form1.cs",
+              "ToolTip": "C:\\Users\\patom\\Downloads\\Ejer-Ind\\WinApp_Ejer6\\WinApp_Ejer6\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinApp_Ejer6\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T23:21:57.192Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
